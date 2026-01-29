@@ -17,8 +17,8 @@ import sqlite3
 
 # 配置文件
 class Config:
-    BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # 替换为你的机器人 Token
-    ADMIN_ID = 123456789  # 替换为你的 Telegram 用户 ID
+    BOT_TOKEN = "8277055162:AAHaHgp0_gqx4D1sHCtnCecUmXRlyNMfyRg"  # 替换为你的机器人 Token
+    ADMIN_ID = 640311536  # 替换为你的 Telegram 用户 ID
     DB_PATH = "bot_data.db"
 
 # 数据库管理
